@@ -1,0 +1,16 @@
+﻿{
+  "sponsors": [
+    {
+      "name": "Netlight",
+      "imgsrc": "http://www.jamstalldhetsveckan.se/wp-content/uploads/2017/01/NL-logo-square.png",
+      "description": "Netlight is a company, one of the most company in the world actually.",
+      "homepage": "https://www.netlight.com/"
+    },
+    {
+      "name": "Netlight 2",
+      "imgsrc": "http://www.jamstalldhetsveckan.se/wp-content/uploads/2017/01/NL-logo-square.png",
+      "description": "Netlight is a company, one of the most company in the world actually. Here is some more text, hope you like it :)",
+      "homepage": "https://www.netlight.com/"
+    }
+  ]
+}

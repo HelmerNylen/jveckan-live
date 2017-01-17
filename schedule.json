@@ -1,0 +1,72 @@
+﻿{
+  "week": [
+    {
+      "date": "2017-02-20",
+      "title": "Måndag",
+      "events": [
+        {
+          "title": "Mingel om dieselmotorer",
+          "host": "Ericsson",
+          "location": "Gröten, Nymble",
+          "description": "Ericsson bjuder in till ett mingel kring jämställdhet, feminism och dess koppling till framtidens dieselmotorer. Det bjuds dessutom på lättare mat och dryck.",
+          "start": "2017-02-20 13:00:00",
+          "end": "2017-02-20 15:30:00",
+          "link": "http://ths.kth.se/",
+          "shortDescription": "Mingel om jämställdhet, feminism och dess koppling till framtidens dieselmotorer.",
+          "id": 11,
+          "cancelled": false,
+          "moved": false,
+          "map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d254.27234785647389!2d…!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ssv!2sse!4v1482857531234"
+        },
+        {
+          "title": "Gudrun Schyman",
+          "host": "",
+          "location": "Lilla matsalen, Nymble",
+          "description": "Gudrun Schyman pratar om jämställdhet.",
+          "start": "2017-02-20 16:00:00",
+          "end": "2017-02-20 18:00:00",
+          "link": "http://ths.kth.se/",
+          "shortDescription": "Gudrun Schyman pratar om jämställdhet.",
+          "id": 12,
+          "cancelled": true,
+          "moved": false,
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1017.0705305906896!2d…e+-+Tekniska+H%C3%B6gskolans+K%C3%A5rhus!5e0!3m2!1ssv!2sse!4v1482858823754"
+        }
+      ]
+    },
+    {
+      "date": "2017-02-21",
+      "title": "Tisdag",
+      "events": [
+        {
+          "title": "Testtitel 3",
+          "host": "Ericsson 3",
+          "location": "Nymble eller nåt 3",
+          "description": "Här är det en jättelång text som förklarar en massa saker.",
+          "start": "2017-02-20 11:00:00",
+          "end": "2017-02-20 12:30:00",
+          "link": "http://ths.kth.se/",
+          "shortDescription": "Här är en kort text.",
+          "id": 21,
+          "cancelled": false,
+          "moved": false,
+          "map": ""
+        },
+        {
+          "title": "Testtitel 4",
+          "host": "",
+          "location": "Nymble eller nåt 4",
+          "description": "Här är det en jättelång text som förklarar en massa saker.",
+          "start": "2017-02-20 13:00:00",
+          "end": "2017-02-20 15:00:00",
+          "link": "http://ths.kth.se/",
+          "shortDescription": "Här är en kort text.",
+          "id": 22,
+          "cancelled": false,
+          "moved": true,
+          "map": ""
+        }
+      ]
+    }
+  ]
+}
