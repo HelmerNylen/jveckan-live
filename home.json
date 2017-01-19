@@ -1,0 +1,19 @@
+﻿{
+  "slides": [
+    {
+      "img": "img/bg2.jpg",
+      "upper": "Välkommen till Jämställdhetsveckan!",
+      "lower": "20-24:e februari 2017"
+    },
+    {
+      "img": "img/bg3.jpg",
+      "upper": "Redo att följa med oss?",
+      "lower": "Få reda på vad vi gör!"
+    },
+    {
+      "img": "img/bg5.jpg",
+      "upper": "Föreläsningar, debatter och workshops!",
+      "lower": "Snart..."
+    }
+  ]
+}
